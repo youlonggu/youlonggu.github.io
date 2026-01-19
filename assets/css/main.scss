@@ -23,3 +23,32 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.author-me {
+  text-decoration: underline;
+  text-underline-offset: 2px;      
+  text-decoration-thickness: 1.5px; 
+}
+
+.post article .clearfix p {
+  // text-align: justify !important;
+  // text-justify: inter-word;
+  // hyphens: auto;
+
+  font-size: 0.9rem;   
+  line-height: 1.5;    
+}
+
+@media (max-width: 768px) {
+  body .post article .clearfix p {
+    text-align: left !important;
+    hyphens: none;
+  }
+}
+
+.post article .profile .more-info {
+  font-family: var(--global-font-family) !important;
+  font-size: 1rem !important;
+}
+
+
