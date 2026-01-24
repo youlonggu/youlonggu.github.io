@@ -28,7 +28,7 @@ latest_posts:
 
 body_class: home-about
 ---
-I am a PhD student at the [Mobility Science Lab](https://mobscilab.com/), School of Geography, University of Leeds, supervised by Prof. [Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley). I hold a Master of Urban Planning from the National University of Singapore and a Bachelor of Engineering in Urban Planning from Hefei University of Technology.
+I am a PhD student at the [Mobility Science Lab](https://mobscilab.com/), School of Geography, University of Leeds, supervised by Prof. [Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley) and Dr. [Roger Beecham](https://environment.leeds.ac.uk/geography/staff/1003/dr-roger-beecham). I hold a Master of Urban Planning from the National University of Singapore and a Bachelor of Engineering in Urban Planning from Hefei University of Technology.
 
 I am currently involved in the [INFUZE](https://in-fuze.org.uk/) project, where my research focuses on understanding shared mobility trends at the national scale. My broader research interests lie in urban analytics and computational geography, such as leveraging urban visual data to study urban environments and human–place interactions.
 
