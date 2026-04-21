@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-2-5-years-at-ual",
+        },{id: "post-talk-presentation-at-the-gisruk-2026-conference",
+        
+          title: "Talk: Presentation at the GISRUK 2026 Conference",
+        
+        description: "Presenting our paper in the Urban Green Space session at GISRUK 2026.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/GISRUK/";
+          
+        },
+      },{id: "post-2-5-years-at-ual",
         
           title: "2.5 Years at UAL",
         
@@ -94,6 +105,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-new-paper-it-is-not-always-greener-on-the-other-side-greenery-perception-across-demographics-and-personalities-in-multiple-cities",
           title: 'New paper: It is not always greener on the other side: Greenery perception...',
+          description: "",
+          section: "News",},{id: "news-new-paper-assessing-park-satisfaction-from-google-maps-reviews-novel-evidence-from-multimodal-text-image-analysis",
+          title: 'New paper: Assessing Park Satisfaction from Google Maps Reviews: Novel Evidence from Multimodal...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
