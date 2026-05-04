@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper: [Assessing Park Satisfaction from Google Maps Reviews: Novel Evidence from Multimodal Text–Image Analysis](hhttps://zenodo.org/records/19387282)
+New paper: [Assessing Park Satisfaction from Google Maps Reviews: Novel Evidence from Multimodal Text–Image Analysis](https://zenodo.org/records/19387282)
