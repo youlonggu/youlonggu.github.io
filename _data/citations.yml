@@ -1,24 +1,28 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-05-08'
 papers:
   FgsR5QgAAAAJ:2osOgNQ5qMEC:
-    citations: 5
+    citations: 7
     title: Can a Large Language Model Assess Urban Design Quality? Evaluating Walkability Metrics Across Expertise Levels
     year: '2025'
   FgsR5QgAAAAJ:9yKSN-GCB0IC:
-    citations: 14
+    citations: 18
     title: Designing effective image-based surveys for urban visual perception
     year: '2025'
   FgsR5QgAAAAJ:Tyk-4Ss8FVUC:
-    citations: 2
+    citations: 3
     title: 'It is not always greener on the other side: Greenery perception across demographics and personalities in multiple cities'
-    year: '2025'
+    year: '2026'
+  FgsR5QgAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: "Assessing Park Satisfaction from Google Maps Reviews: Novel Evidence from Multimodal Text\u2013Image Analysis"
+    year: Unknown Year
   FgsR5QgAAAAJ:d1gkVwhDpl0C:
     citations: 3
     title: 'My street is better than your street: Towards data-driven urban planning with visual perception'
     year: '2024'
   FgsR5QgAAAAJ:qjMakFHDy7sC:
-    citations: 9
+    citations: 14
     title: Global urban visual perception varies across demographics and personalities
     year: '2025'
   FgsR5QgAAAAJ:u-x6o8ySG0sC:
