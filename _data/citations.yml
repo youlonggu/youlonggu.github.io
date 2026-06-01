@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-06-01'
 papers:
   FgsR5QgAAAAJ:2osOgNQ5qMEC:
-    citations: 7
+    citations: 9
     title: Can a Large Language Model Assess Urban Design Quality? Evaluating Walkability Metrics Across Expertise Levels
     year: '2025'
   FgsR5QgAAAAJ:9yKSN-GCB0IC:
-    citations: 18
+    citations: 20
     title: Designing effective image-based surveys for urban visual perception
     year: '2025'
   FgsR5QgAAAAJ:Tyk-4Ss8FVUC:
@@ -17,12 +17,16 @@ papers:
     citations: 0
     title: "Assessing Park Satisfaction from Google Maps Reviews: Novel Evidence from Multimodal Text\u2013Image Analysis"
     year: Unknown Year
+  FgsR5QgAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: 'Semantic urban elements: A Design+ Science paradigm to augment human-centric cities?'
+    year: '2025'
   FgsR5QgAAAAJ:d1gkVwhDpl0C:
     citations: 4
     title: 'My street is better than your street: Towards data-driven urban planning with visual perception'
     year: '2024'
   FgsR5QgAAAAJ:qjMakFHDy7sC:
-    citations: 15
+    citations: 18
     title: Global urban visual perception varies across demographics and personalities
     year: '2025'
   FgsR5QgAAAAJ:u-x6o8ySG0sC:
