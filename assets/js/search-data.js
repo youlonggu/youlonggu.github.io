@@ -23,7 +23,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-talk-presentation-at-the-gisruk-2026-conference",
+        },{id: "post-talk-presentation-at-the-cosit-2026-conference",
+        
+          title: "Talk: Presentation at the COSIT 2026 Conference",
+        
+        description: "Presenting PhD proposal during the Doctoral Mentoring Programme session at COSIT 2026.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/COSIT/";
+          
+        },
+      },{id: "post-new-paper-street-view-video-for-urban-sensing-potential-for-measuring-urban-vitality",
+        
+          title: "New Paper: Street View Video for Urban Sensing: Potential for Measuring Urban Vitality...",
+        
+        description: "Computers Environment and Urban Systems publishes our work on using street view videos to measure urban vitality.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/paper-svv/";
+          
+        },
+      },{id: "post-workshop-agile-phd-school-2026",
+        
+          title: "Workshop: AGILE PhD School 2026",
+        
+        description: "Attending AGILE PhD School 2026 at University of Glasgow.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/AGILE/";
+          
+        },
+      },{id: "post-talk-presentation-at-the-gisruk-2026-conference",
         
           title: "Talk: Presentation at the GISRUK 2026 Conference",
         
@@ -111,6 +144,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-new-paper-semantic-urban-elements-a-design-science-paradigm-to-augment-human-centric-cities",
           title: 'New paper: Semantic urban elements: A Design+Science paradigm to augment human-centric cities?',
+          description: "",
+          section: "News",},{id: "news-new-paper-street-view-video-for-urban-sensing-potential-for-measuring-urban-vitality",
+          title: 'New paper: Street View Video for Urban Sensing: Potential for Measuring Urban Vitality...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
